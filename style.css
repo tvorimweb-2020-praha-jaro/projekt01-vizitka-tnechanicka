@@ -1,0 +1,12 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    color: rgba(255, 255, 255, 0.836);
+    background-color: black;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
